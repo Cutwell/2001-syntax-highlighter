@@ -27,7 +27,7 @@ Lorem Ipsum...
 | :---: | :---: |
 | ```highlight()``` | Adds correct syntax highlighting to all ```<code>``` blocks inside the file. |
 
-### Obtaining text from inside a formatted <code> block
+### Obtaining text from inside a formatted \<code\> block
 ```javascript
 var text = document.getElementById(id).innerText;
 ```
