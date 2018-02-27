@@ -4,7 +4,7 @@ GNU Nano-style syntax highlighting on the web.
 ### Including in your project
 The highlighter is written in pure JavaScript, so no additional libraries are required. Just include the highlight and language files inside your .html project.
 ```html
-<link rel=stylsheet href=path/to/Language.css>
+<link rel=stylesheet href=path/to/Language.css>
 <script src=path/to/Language.js></script>
 <script src=path/to/2001.js></script>
 ```
