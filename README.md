@@ -1,4 +1,4 @@
-# 2001-highlight
+# 2001-syntax-highlighter
 GNU Nano-style syntax highlighting on the web.
 
 ### Including in your project
@@ -40,6 +40,3 @@ By customising the .CSS file, or creating new files, you can use a different the
 
 ### Contributing
 Additional syntax themes for new languages, or new themes for currently supported languages, are always welcome. Ensure you make clear what language your are supporting and the name of your theme inside the pull request in order to get it accepted swiftly.
-
-### Why 2001?
-2001 was the year Nano became part of the GNU project, under which it gained syntax colouring, which this project looks to mirror.
